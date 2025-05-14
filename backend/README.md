@@ -93,7 +93,7 @@ Requires a valid JWT token in the Authorization header:
 Logout the current user and blacklist the token provided in cookie or headers
 
 ### HTTP Method
-<!-- 
+
 `GET`
 
 ### Authentication
@@ -109,6 +109,7 @@ Requires a valid JWT token in the Authorization header or cookie:
 - `token` (String): JWT Token## `/captains/register` Endpoint
 
 ### Description
+<!-- 
 
 Registers a new captain by creating a captain account with the provided information.
 
