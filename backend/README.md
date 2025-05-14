@@ -30,7 +30,7 @@ The request body should be in JSON format and include the following fields:
   - `password` (string): User's password (minimum 6 characters).
 - `token` (String): JWT Token
 
-<!-- ## `/users/login` Endpoint
+## `/users/login` Endpoint
 
 ### Description
 
@@ -93,7 +93,7 @@ Requires a valid JWT token in the Authorization header:
 Logout the current user and blacklist the token provided in cookie or headers
 
 ### HTTP Method
-
+<!-- 
 `GET`
 
 ### Authentication
