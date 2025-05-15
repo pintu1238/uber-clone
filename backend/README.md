@@ -109,7 +109,7 @@ Requires a valid JWT token in the Authorization header or cookie:
 - `token` (String): JWT Token## `/captains/register` Endpoint
 
 ### Description
-<!-- 
+
 
 Registers a new captain by creating a captain account with the provided information.
 
@@ -174,7 +174,7 @@ The request body should be in JSON format and include the following fields:
     - `capacity` (number): Vehicle passenger capacity.
     - `vehicleType` (string): Type of vehicle.
 - `token` (String): JWT Token
-
+<!-- 
 ## `/captains/login` Endpoint
 
 ### Description
