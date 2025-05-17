@@ -174,7 +174,7 @@ The request body should be in JSON format and include the following fields:
     - `capacity` (number): Vehicle passenger capacity.
     - `vehicleType` (string): Type of vehicle.
 - `token` (String): JWT Token
-<!-- 
+
 ## `/captains/login` Endpoint
 
 ### Description
@@ -256,7 +256,7 @@ Requires a valid JWT token in the Authorization header or cookie.
 ### Example Response
 
 - `message` (string): Logout successfully.
-
+<!-- 
 
 ## `/maps/get-coordinates` Endpoint
 
